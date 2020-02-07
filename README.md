@@ -1,2 +1,2 @@
-# mathvistools
-tools for math visualizations
+# mathvis
+website that lets you visually understand mathematics
